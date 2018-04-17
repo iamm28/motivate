@@ -1,5 +1,7 @@
 {
   "name": "motivate",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-youtube": "^7.6.0"
+  }
 }
